@@ -5,8 +5,9 @@ A simple and elegant coffee shop website built using **HTML**, **CSS**, and **Ja
 ## 🔗 Live Demo
 [Click here to view the website](https://codingmento.github.io/coffee-website/)
 ## 📸 Preview
-![Preview](![image](https://github.com/user-attachments/assets/2953b0c6-c27e-4714-a32d-50658fd7461b)
-)
+![Preview]
+![image](https://github.com/user-attachments/assets/fcd67773-1c81-45d8-8af3-e214300c66aa)
+
 
 ![image](https://github.com/user-attachments/assets/b8d39ae2-838a-416d-9f32-79a6b617176c)
 
